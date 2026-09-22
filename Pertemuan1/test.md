@@ -1,1 +1,0 @@
-tuags ada di canva
