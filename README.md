@@ -249,5 +249,5 @@ npm run build                       :: Build aset produksi
 
 ```
 > **Catatan pull jika menggunakan laravel:**
-- (lalukan pull file.blade.php) di diketori/folder resources
-- (lalukan pull web.php) di diketori/folder route
+- (lalukan pull file.blade.php) di diketori/folder C:\xampp\htdocs\LaraPres\resources
+- (lalukan pull web.php) di diketori/folder C:\xampp\htdocs\LaraPres\routes
