@@ -117,6 +117,7 @@ DB_PASSWORD=
 	5. Restart Apache via XAMPP Control Panel dan buka ulang (restart) Terminal/Command Prompt sebelum menjalankan kembali perintah Composer.
 
 *(Password bawaan MySQL pada XAMPP disetel kosong secara default).*
+
 6. **Generate Application Key & Buat Database**
 * Buka browser dan akses `http://localhost/phpmyadmin`.
 * Buat database baru bernama `db_laravel`.
@@ -247,3 +248,6 @@ npm run dev                         :: Mode live hot-reload
 npm run build                       :: Build aset produksi
 
 ```
+> **Catatan pull jika menggunakan laravel:**
+- (lalukan pull file.blade.php) di diketori/folder resources
+- (lalukan pull web.php) di diketori/folder route
